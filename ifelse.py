@@ -12,3 +12,7 @@ else:
     grade ="D"
 
 print("등급은 ", grade)
+
+
+print("------다른예제---")
+
