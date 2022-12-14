@@ -27,3 +27,5 @@ s.printInfo()
 
 # print(p.__dict__)
 # print(s.__dict__)
+
+print(issubclass(Student, Person))
