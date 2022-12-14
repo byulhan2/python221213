@@ -8,5 +8,5 @@ class MyClass:
         print("Instance is deleted!")
 
 d = MyClass(5)
-del d 
 
+del d
